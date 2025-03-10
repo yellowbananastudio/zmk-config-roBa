@@ -107,8 +107,8 @@
 
         MOUSE {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                      &trans  &trans          &msc SCRL_DOWN  &trans           &trans
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &mkp MB1        &msc SCRL_UP    &mkp MB2         &trans
+&trans  &trans  &trans  &trans  &trans                      &trans  &trans          &msc SCRL_UP    &trans           &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &mkp MB1        &msc SCRL_DOWN  &mkp MB2         &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &msc SCRL_LEFT  &trans          &msc SCRL_RIGHT  &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                   &trans
             >;
